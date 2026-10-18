@@ -35,6 +35,6 @@
 
 [![koimsurai.com](https://img.shields.io/badge/koimsurai.com-0a0a0a?style=flat-square&logo=googlechrome&logoColor=white)](https://koimsurai.com)
 ![wakatime](https://waka.koimsurai.com/api/badge?style=flat-square&label=wakatime&labelColor=0a0a0a&color=27272a)
-![profile views](https://komarev.com/ghpvc/?username=timo9378&style=flat-square&color=0a0a0a&label=profile%20views)
+![profile views](https://views.koimsurai.com/?username=timo9378&style=flat-square&color=0a0a0a&label=profile%20views&base=290)
 
 </div>
