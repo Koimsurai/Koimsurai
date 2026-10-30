@@ -24,17 +24,17 @@
 
 <br>
 
-<img height="165" src="https://ghstats.koimsurai.com/api?username=timo9378&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=fafafa&icon_color=fafafa&text_color=a1a1aa&v=2" />
-<img height="165" src="https://streak.koimsurai.com/?user=timo9378&hide_border=true&background=0a0a0a&stroke=27272a&ring=fafafa&fire=fafafa&currStreakLabel=fafafa&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&v=2" />
+<img height="165" src="https://ghstats.koimsurai.com/api?username=Koimsurai&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=fafafa&icon_color=fafafa&text_color=a1a1aa&v=3" />
+<img height="165" src="https://streak.koimsurai.com/?user=Koimsurai&hide_border=true&background=0a0a0a&stroke=27272a&ring=fafafa&fire=fafafa&currStreakLabel=fafafa&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&v=3" />
 
 <br>
 
-<img width="98%" src="https://activity.koimsurai.com/graph?username=timo9378&hide_border=true&bg_color=0a0a0a&color=fafafa&line=fafafa&point=fafafa&area=true&area_color=1c1c1f&hide_title=true" />
+<img width="98%" src="https://activity.koimsurai.com/graph?username=Koimsurai&hide_border=true&bg_color=0a0a0a&color=fafafa&line=fafafa&point=fafafa&area=true&area_color=1c1c1f&hide_title=true&v=3" />
 
 <br><br>
 
 [![koimsurai.com](https://img.shields.io/badge/koimsurai.com-0a0a0a?style=flat-square&logo=googlechrome&logoColor=white)](https://koimsurai.com)
 ![wakatime](https://waka.koimsurai.com/api/badge?style=flat-square&label=wakatime&labelColor=0a0a0a&color=27272a)
-![profile views](https://views.koimsurai.com/?username=timo9378&style=flat-square&color=0a0a0a&label=profile%20views&base=290)
+![profile views](https://views.koimsurai.com/?username=Koimsurai&style=flat-square&color=0a0a0a&label=profile%20views&base=290)
 
 </div>
